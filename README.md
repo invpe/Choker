@@ -1,5 +1,7 @@
 # Choker 🤙
 
+![image](https://github.com/user-attachments/assets/d397eecf-6669-4605-ab8f-6531bb861b67)
+
 Choker is a sophisticated tool for ESP32 ULPs that enables seamless packet (via lwip, not the boring 802.11 frames) capturing and analysis by allowing the device to function in AP+STA mode with NAPT enabled, forwarding packets over serial for real-time monitoring in Wireshark. 
 Still not getting the idea? Read on.
 
@@ -11,6 +13,9 @@ Still not getting the idea? Read on.
 Curious about what those inexpensive WiFi 'smart home' devices are doing when plugged in? Want to know what your new router is transmitting upon activation? Or maybe you’re concerned about the suspicious activities of your smart washing machine? Spin up the Choker.
 
 # Detailed Description
+
+![image](https://github.com/user-attachments/assets/6a772f13-aa86-47a2-9e61-f8cc12808538)
+
 
 Choker streamlines the network analysis process. How does it do that?
 
